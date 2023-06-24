@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="LibLoader" options="--add-exports java.base/jdk.internal.reflect=ALL-UNNAMED" />
+      <module name="LibLoader" options="" />
     </option>
   </component>
 </project>

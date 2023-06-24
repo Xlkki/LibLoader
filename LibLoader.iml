@@ -54,6 +54,7 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.kyori:adventure-key:4.13.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.kyori:examination-api:1.3.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.kyori:examination-string:1.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains:annotations:24.0.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.kyori:adventure-text-minimessage:4.13.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.kyori:adventure-text-serializer-gson:4.13.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.kyori:adventure-text-serializer-legacy:4.13.1" level="project" />
@@ -63,8 +64,5 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm:9.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm-commons:9.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm-tree:9.4" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: ru.xikki.libraries:ORM:1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.xerial:sqlite-jdbc:3.39.3.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.jetbrains:annotations:24.0.1" level="project" />
   </component>
 </module>
