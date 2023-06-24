@@ -18,6 +18,8 @@ The libraries are loaded when the plugin is enabled.
 
 ## /library list 
 
+Permission: `library.list`
+
 Shows a list of loaded and available for 
 loading libraries
 
@@ -26,6 +28,8 @@ loading libraries
 
 ## /library load <file_name> 
 
+Permission: `library.load`
+
 Loads the library from the specified file
 (the file should be in `/plugins/LibLoader/libs`)
 
@@ -33,12 +37,16 @@ Loads the library from the specified file
 
 ## /library unload <library_id>
 
+Permission: `library.unload`
+
 Unloads the library with the specified id 
 (file name without an extension)
 
 <img src="https://media.discordapp.net/attachments/945691411435622453/1122122360854675566/image.png">
 
 ## /library reload <library_id>
+
+Permission: `library.reload`
 
 Reloads the library with the specified id 
 (file name without an extension)
