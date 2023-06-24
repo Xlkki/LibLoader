@@ -1,0 +1,8 @@
+name: LibLoader
+version: '${project.version}'
+main: ru.xikki.plugins.libloader.LibLoader
+api-version: 1.19
+authors: [Xikki]
+commands:
+    library:
+        aliases: [lib, libs, libraries]
