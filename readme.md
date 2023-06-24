@@ -59,3 +59,6 @@ Even though the plugin allows you to reload the library.
 I highly recommend not doing this for the reason that the 
 old classes remain loaded in the cache, which can lead to
 some conflicts between old and new class
+
+The plugin has not been properly tested, so most likely 
+there are critical errors
